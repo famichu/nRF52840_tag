@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MDBT50Q
+D Raytac's MDBT50Q & MDBT50Q-P is a BT5.2 & BT5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52840 SoC solution, which incorporates: GPIO, SPI, UART,I2C, I2S, PMD, PWM, ADC, NFC and USB interfaces for connecting peripherals and sensors.
+K MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4, nRF
+F https://www.raytac.com/download/index.php?index_id=43
+$ENDCMP
+#
+#End Doc Library
